@@ -1,3 +1,3 @@
 output "example" {
-  value = "output message"
+  value = "output message test"
   }
